@@ -84,6 +84,11 @@ class CreditsState extends MusicBeatState
 			['Android Port'],
 			['glauber01Nya', 'glauber01Nya', 'i ported this', 'https://www.youtube.com/channel/UC7kXHXQNdwsm0JXjBMvKJ9w', 'FFFFFF'],
 			[''],
+			['Mod Creators'],
+			['FredGuy', 'fredguy', 'Art assets and basic groundwork', 'https://twitter.com/ThatOne_Kid39', '0xFF7396f0'],
+			['GERShark8209', 'pump', 'Extra coding help (Camera zoom, WOMAN animation..)', 'https://twitter.com/GERShark8209', '0xFF723F9E'],
+			['OneGorgon', 'onegorgon', 'Made the original cover', 'https://twitter.com/OneGorgon', '0xFFf0ba73'],
+			['ThatOne_Kid39', 'TOK', 'Made the original comic the cover was based on', 'https://twitter.com/ThatOne_Kid39', '0xFF7396f0']
 		];
 		
 		for(i in pisspoop){
