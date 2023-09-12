@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="LMMBF.png">
+<SubTexture name="LMMBF idle0000" x="1632" y="285" width="330" height="272" frameX="-61" frameY="-225" frameWidth="700" frameHeight="524" />
+<SubTexture name="LMMBF idle0001" x="1632" y="0" width="331" height="285" frameX="-62" frameY="-212" frameWidth="700" frameHeight="524" />
+<SubTexture name="LMMBF idle0002" x="1299" y="871" width="328" height="288" frameX="-57" frameY="-209" frameWidth="700" frameHeight="524" />
+<SubTexture name="LMMBF idle0003" x="1299" y="582" width="326" height="289" frameX="-54" frameY="-208" frameWidth="700" frameHeight="524" />
+<SubTexture name="LMMBF right0000" x="987" y="295" width="310" height="294" frameX="-66" frameY="-212" frameWidth="700" frameHeight="524" />
+<SubTexture name="LMMBF right0001" x="987" y="0" width="312" height="295" frameX="-62" frameY="-210" frameWidth="700" frameHeight="524" />
+<SubTexture name="LMMBF up0000" x="335" y="636" width="335" height="298" frameX="-50" frameY="-194" frameWidth="700" frameHeight="524" />
+<SubTexture name="LMMBF up0001" x="345" y="952" width="336" height="294" frameX="-48" frameY="-200" frameWidth="700" frameHeight="524" />
+<SubTexture name="LMMBF left0000" x="0" y="1537" width="339" height="282" frameX="-24" frameY="-228" frameWidth="700" frameHeight="524" />
+<SubTexture name="LMMBF left0001" x="346" y="1247" width="332" height="287" frameX="-30" frameY="-221" frameWidth="700" frameHeight="524" />
+<SubTexture name="LMMBF down0000" x="681" y="952" width="333" height="292" frameX="-35" frameY="-215" frameWidth="700" frameHeight="524" />
+<SubTexture name="LMMBF down0001" x="1299" y="0" width="333" height="292" frameX="-41" frameY="-213" frameWidth="700" frameHeight="524" />
+<SubTexture name="LMMBF missright0000" x="658" y="318" width="314" height="299" frameX="-71" frameY="-208" frameWidth="700" frameHeight="524" />
+<SubTexture name="LMMBF missright0001" x="987" y="589" width="312" height="293" frameX="-58" frameY="-214" frameWidth="700" frameHeight="524" />
+<SubTexture name="LMMBF missright0002" x="670" y="636" width="312" height="298" frameX="-62" frameY="-209" frameWidth="700" frameHeight="524" />
+<SubTexture name="LMMBF missup0000" x="0" y="952" width="345" height="295" frameX="-45" frameY="-197" frameWidth="700" frameHeight="524" />
+<SubTexture name="LMMBF missup0001" x="678" y="1247" width="347" height="287" frameX="-47" frameY="-205" frameWidth="700" frameHeight="524" />
+<SubTexture name="LMMBF missup0002" x="0" y="1247" width="346" height="290" frameX="-46" frameY="-202" frameWidth="700" frameHeight="524" />
+<SubTexture name="LMMBF missleft0000" x="1345" y="1537" width="332" height="268" frameX="-25" frameY="-238" frameWidth="700" frameHeight="524" />
+<SubTexture name="LMMBF missleft0001" x="673" y="1537" width="337" height="280" frameX="-35" frameY="-226" frameWidth="700" frameHeight="524" />
+<SubTexture name="LMMBF missleft0002" x="1010" y="1537" width="335" height="273" frameX="-32" frameY="-233" frameWidth="700" frameHeight="524" />
+<SubTexture name="LMMBF missdown0000" x="339" y="1537" width="334" height="281" frameX="-43" frameY="-231" frameWidth="700" frameHeight="524" />
+<SubTexture name="LMMBF missdown0001" x="1299" y="292" width="333" height="290" frameX="-37" frameY="-222" frameWidth="700" frameHeight="524" />
+<SubTexture name="LMMBF missdown0002" x="1025" y="1247" width="333" height="287" frameX="-40" frameY="-225" frameWidth="700" frameHeight="524" />
+<SubTexture name="LMMBF deathstart0000" x="0" y="636" width="335" height="316" frameX="-55" frameY="-208" frameWidth="700" frameHeight="524" />
+<SubTexture name="LMMBF deathstart0001" x="0" y="0" width="329" height="318" frameX="-56" frameY="-206" frameWidth="700" frameHeight="524" />
+<SubTexture name="LMMBF deathloop0000" x="329" y="0" width="329" height="318" frameX="-56" frameY="-206" frameWidth="700" frameHeight="524" />
+<SubTexture name="LMMBF deathloop0001" x="0" y="318" width="329" height="318" frameX="-56" frameY="-206" frameWidth="700" frameHeight="524" />
+<SubTexture name="LMMBF deathend0000" x="329" y="318" width="329" height="318" frameX="-56" frameY="-206" frameWidth="700" frameHeight="524" />
+<SubTexture name="LMMBF deathend0001" x="658" y="0" width="329" height="318" frameX="-56" frameY="-206" frameWidth="700" frameHeight="524" />
+</TextureAtlas>

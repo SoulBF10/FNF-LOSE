@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="LMMTB.png">
+<SubTexture name="LMMTB idle0000" x="298" y="715" width="305" height="151" frameX="-111" frameY="-43" frameWidth="700" frameHeight="524" />
+<SubTexture name="LMMTB idle0001" x="296" y="551" width="293" height="161" frameX="-130" frameY="-29" frameWidth="700" frameHeight="524" />
+<SubTexture name="LMMTB idle0002" x="620" y="0" width="287" height="168" frameX="-140" frameY="-21" frameWidth="700" frameHeight="524" />
+<SubTexture name="LMMTB idle0003" x="620" y="168" width="285" height="168" frameX="-149" frameY="-17" frameWidth="700" frameHeight="524" />
+<SubTexture name="LMMTB right0000" x="293" y="190" width="298" height="182" frameX="-145" frameY="-26" frameWidth="700" frameHeight="524" />
+<SubTexture name="LMMTB right0001" x="0" y="190" width="293" height="183" frameX="-150" frameY="-20" frameWidth="700" frameHeight="524" />
+<SubTexture name="LMMTB right0002" x="0" y="373" width="295" height="178" frameX="-153" frameY="-15" frameWidth="700" frameHeight="524" />
+<SubTexture name="LMMTB up0000" x="620" y="336" width="284" height="153" frameX="-149" frameY="-37" frameWidth="700" frameHeight="524" />
+<SubTexture name="LMMTB up0001" x="603" y="715" width="285" height="150" frameX="-150" frameY="-36" frameWidth="700" frameHeight="524" />
+<SubTexture name="LMMTB up0002" x="907" y="150" width="282" height="140" frameX="-149" frameY="-40" frameWidth="700" frameHeight="524" />
+<SubTexture name="LMMTB left0000" x="0" y="551" width="296" height="164" frameX="-128" frameY="-20" frameWidth="700" frameHeight="524" />
+<SubTexture name="LMMTB left0001" x="589" y="551" width="290" height="158" frameX="-136" frameY="-22" frameWidth="700" frameHeight="524" />
+<SubTexture name="LMMTB left0002" x="0" y="715" width="298" height="153" frameX="-129" frameY="-18" frameWidth="700" frameHeight="524" />
+<SubTexture name="LMMTB down0000" x="907" y="0" width="287" height="150" frameX="-141" frameY="-38" frameWidth="700" frameHeight="524" />
+<SubTexture name="LMMTB down0001" x="0" y="868" width="289" height="147" frameX="-140" frameY="-34" frameWidth="700" frameHeight="524" />
+<SubTexture name="LMMTB down0002" x="907" y="290" width="287" height="139" frameX="-139" frameY="-39" frameWidth="700" frameHeight="524" />
+<SubTexture name="LMMTB altup0000" x="0" y="0" width="315" height="190" frameX="-121" frameY="-25" frameWidth="700" frameHeight="524" />
+<SubTexture name="LMMTB altup0001" x="315" y="0" width="305" height="186" frameX="-129" frameY="-20" frameWidth="700" frameHeight="524" />
+<SubTexture name="LMMTB altup0002" x="295" y="373" width="292" height="169" frameX="-136" frameY="-23" frameWidth="700" frameHeight="524" />
+</TextureAtlas>

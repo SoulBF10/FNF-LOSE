@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="LMMSE.png">
+<SubTexture name="LMMSE idle0000" x="1099" y="582" width="158" height="283" frameX="-402" frameY="-49" frameWidth="700" frameHeight="524" />
+<SubTexture name="LMMSE idle0001" x="938" y="294" width="158" height="293" frameX="-411" frameY="-40" frameWidth="700" frameHeight="524" />
+<SubTexture name="LMMSE idle0002" x="781" y="0" width="157" height="300" frameX="-423" frameY="-33" frameWidth="700" frameHeight="524" />
+<SubTexture name="LMMSE idle0003" x="548" y="315" width="157" height="301" frameX="-425" frameY="-32" frameWidth="700" frameHeight="524" />
+<SubTexture name="LMMSE right0000" x="0" y="625" width="246" height="300" frameX="-418" frameY="-34" frameWidth="700" frameHeight="524" />
+<SubTexture name="LMMSE right0001" x="246" y="625" width="240" height="299" frameX="-419" frameY="-35" frameWidth="700" frameHeight="524" />
+<SubTexture name="LMMSE right0002" x="486" y="625" width="240" height="299" frameX="-419" frameY="-35" frameWidth="700" frameHeight="524" />
+<SubTexture name="LMMSE up0000" x="0" y="315" width="194" height="310" frameX="-394" frameY="-20" frameWidth="700" frameHeight="524" />
+<SubTexture name="LMMSE up0001" x="194" y="315" width="177" height="308" frameX="-406" frameY="-23" frameWidth="700" frameHeight="524" />
+<SubTexture name="LMMSE up0002" x="371" y="315" width="177" height="308" frameX="-406" frameY="-23" frameWidth="700" frameHeight="524" />
+<SubTexture name="LMMSE left0000" x="653" y="925" width="179" height="280" frameX="-407" frameY="-52" frameWidth="700" frameHeight="524" />
+<SubTexture name="LMMSE left0001" x="304" y="925" width="180" height="281" frameX="-403" frameY="-52" frameWidth="700" frameHeight="524" />
+<SubTexture name="LMMSE left0002" x="484" y="925" width="169" height="281" frameX="-414" frameY="-52" frameWidth="700" frameHeight="524" />
+<SubTexture name="LMMSE down0000" x="1074" y="925" width="170" height="254" frameX="-427" frameY="-77" frameWidth="700" frameHeight="524" />
+<SubTexture name="LMMSE down0001" x="1388" y="0" width="167" height="254" frameX="-430" frameY="-79" frameWidth="700" frameHeight="524" />
+<SubTexture name="LMMSE down0002" x="1388" y="254" width="167" height="254" frameX="-430" frameY="-79" frameWidth="700" frameHeight="524" />
+<SubTexture name="LMMSE altright0000" x="938" y="587" width="157" height="293" frameX="-439" frameY="-40" frameWidth="700" frameHeight="524" />
+<SubTexture name="LMMSE altright0001" x="726" y="625" width="161" height="294" frameX="-437" frameY="-39" frameWidth="700" frameHeight="524" />
+<SubTexture name="LMMSE altright0002" x="938" y="0" width="161" height="294" frameX="-437" frameY="-39" frameWidth="700" frameHeight="524" />
+<SubTexture name="LMMSE altup0000" x="0" y="0" width="273" height="315" frameX="-371" frameY="-26" frameWidth="700" frameHeight="524" />
+<SubTexture name="LMMSE altup0001" x="273" y="0" width="254" height="311" frameX="-370" frameY="-27" frameWidth="700" frameHeight="524" />
+<SubTexture name="LMMSE altup0002" x="527" y="0" width="254" height="311" frameX="-370" frameY="-27" frameWidth="700" frameHeight="524" />
+<SubTexture name="LMMSE altleft0000" x="0" y="925" width="304" height="286" frameX="-354" frameY="-49" frameWidth="700" frameHeight="524" />
+<SubTexture name="LMMSE altleft0001" x="1099" y="0" width="289" height="291" frameX="-362" frameY="-46" frameWidth="700" frameHeight="524" />
+<SubTexture name="LMMSE altleft0002" x="1099" y="291" width="289" height="291" frameX="-362" frameY="-46" frameWidth="700" frameHeight="524" />
+<SubTexture name="LMMSE altdown0000" x="832" y="925" width="242" height="256" frameX="-373" frameY="-78" frameWidth="700" frameHeight="524" />
+<SubTexture name="LMMSE altdown0001" x="0" y="1211" width="230" height="252" frameX="-381" frameY="-80" frameWidth="700" frameHeight="524" />
+<SubTexture name="LMMSE altdown0002" x="230" y="1211" width="230" height="252" frameX="-381" frameY="-80" frameWidth="700" frameHeight="524" />
+</TextureAtlas>
