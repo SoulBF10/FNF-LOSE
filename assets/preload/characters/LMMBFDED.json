@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				11
+			],
+			"anim": "firstDeath",
+			"fps": 12,
+			"name": "LMMBF deathstart",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				37,
+				11
+			],
+			"anim": "deathLoop",
+			"fps": 12,
+			"name": "LMMBF deathloop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				11
+			],
+			"anim": "deathConfirm",
+			"fps": 12,
+			"name": "LMMBF deathend",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/LMMBF",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-240,
+		110
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
