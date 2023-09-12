@@ -1,0 +1,2 @@
+Value 1: Color (Last four values of hex i.e. white is 0xff + "ffff")
+Value 2: Length of fade out in seconds.
